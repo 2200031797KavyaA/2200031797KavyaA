@@ -8,11 +8,11 @@
 - Currently diving deep into coding, web/app dev, and design, sculpting my skills to craft solutions that leave a lasting impact.
 - I'm eager to collaborate and contribute to innovative projects that push boundaries and bring ideas to life.
 - Reach me via LinkedIn or email to discuss your ideas or opportunities for collaboration.
-- You can contact me at [LinkedIn](www.linkedin.com/in/alla-kavya-reddy) or [2200031797@kluniversity.in](mailto:2200031797@kluniversity.in)
+- You can contact me at [LinkedIn](https://www.linkedin.com/in/alla-kavya-reddy) or [2200031797@kluniversity.in](mailto:2200031797@kluniversity.in)
 - ⚡ Fun fact: I'm fueled by coffee and creativity ☕ Let's code something awesome together!❤
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpiYWRwZ3FidW50eWN0dnkyenFnNnk1dHRnaHFka3ducThtYnlqdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YKLLS6ZGQsrwZVgXix/giphy.gif" width="170"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpiYWRwZ3FidW50eWN0dnkyenFnNnk1dHRnaHFka3ducThtYnlqdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YKLLS6ZGQsrwZVgXix/giphy.gif" width="158"/>
 </div>
 
 ### Socials
