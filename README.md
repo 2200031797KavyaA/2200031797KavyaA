@@ -9,6 +9,7 @@
 - I'm eager to collaborate and contribute to innovative projects that push boundaries and bring ideas to life.
 - Reach me via LinkedIn or email to discuss your ideas or opportunities for collaboration.
 - You can contact me at [LinkedIn](https://www.linkedin.com/in/alla-kavya-reddy) or [2200031797@kluniversity.in](mailto:2200031797@kluniversity.in)
+- Also check out my portfolio website for more info at [allakavyareddyportfolio](https://allakavyareddy.journoportfolio.com/)
 - ⚡ Fun fact: I'm fueled by coffee and creativity ☕ Let's code something awesome together!❤
 
 <div id="header" align="center">
