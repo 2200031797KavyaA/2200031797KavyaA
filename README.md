@@ -4,7 +4,7 @@
 </div>
 <h3 align="center">Mastering the Web- Architecting Tomorrow's Web with Passion and Precision</h3>
 
-- As a sophomore web developer, I'm passionate about crafting amazing applications that make a difference.
+- As a software engineer, I'm passionate about crafting amazing applications that make a difference.
 - Currently diving deep into coding, web/app dev, and design, sculpting my skills to craft solutions that leave a lasting impact.
 - I'm eager to collaborate and contribute to innovative projects that push boundaries and bring ideas to life.
 - Reach me via LinkedIn or email to discuss your ideas or opportunities for collaboration.
